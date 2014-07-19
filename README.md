@@ -1,3 +1,5 @@
+<h2> Eric William Dolan's Assignment 4 Data Science Class </h2>
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
