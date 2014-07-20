@@ -1,4 +1,4 @@
-<h2> Eric William Dolan's Assignment 4 Data Science Class </h2>
+<h2> Eric Dolan's Assignment 4 Data Science Class </h2>
 
 ## Introduction
 
